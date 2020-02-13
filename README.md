@@ -1,8 +1,8 @@
 ## Text Classification with Transformers
 
-This is a [colab](https://github.com/Hesamalian/MultilingualBert/blob/master/MBERTclassification.ipynb) notebook to utilize Keras libraries (https://github.com/vzhou842/cnn-from-scratch) and Simple Transformers (https://github.com/ThilinaRajapakse/simpletransformers) to demonstrate the difference between CNN and Multilingual BERT text classifiers.
+This is a [colab](https://github.com/Hesamalian/MultilingualBert/blob/master/MBERTclassification.ipynb) notebook to utilize Keras libraries (https://keras.io/examples/imdb_cnn/) and Simple Transformers (https://github.com/ThilinaRajapakse/simpletransformers) to demonstrate the difference between CNN and Multilingual BERT text classifiers.
 
-The former one is based on transformer package by HuggingFace :hugs: (https://github.com/huggingface/transformers).
+The latter one is based on transformer package by HuggingFace :hugs: (https://github.com/huggingface/transformers).
 
 ---
 

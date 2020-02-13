@@ -2,7 +2,7 @@
 
 This is a [colab](https://github.com/Hesamalian/MultilingualBert/blob/master/MBERTclassification.ipynb) notebook to utilize Keras libraries (https://github.com/vzhou842/cnn-from-scratch) and Simple Transformers (https://github.com/ThilinaRajapakse/simpletransformers) to demonstrate the difference between CNN and Multilingual BERT text classifiers.
 
-The former one is based on transformer package by HuggingFace ?? (https://github.com/huggingface/transformers).
+The former one is based on transformer package by HuggingFace :hugs: (https://github.com/huggingface/transformers).
 
 ---
 

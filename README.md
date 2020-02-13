@@ -11,4 +11,3 @@ The former one is based on transformer package by HuggingFace ?? (https://github
 This is a task of binary sentiment analysis given a french sample dataset that can be found in https://drive.google.com/open?id=1IyxGimLEytKoAIkbr0wdl_bTdGCuz7uH . This dataset includes 5000 samples from a collection of over 1.5 Million tweets data translated to French, with their sentiment (https://github.com/gamebusterz/French-Sentiment-Analysis-Dataset).
 
 ---
-
